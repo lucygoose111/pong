@@ -1,0 +1,6 @@
+player a:
+up: w
+down: s
+player b:
+up: up arrow
+down: down arrow
